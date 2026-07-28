@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-or564j.salamduit.xyz/sitemap.xml
